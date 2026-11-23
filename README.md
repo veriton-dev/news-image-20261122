@@ -9,11 +9,22 @@ One image summing up Sunday 22 November 2026: six stories, six regions. Built by
 | # | Story | Where |
 |---|---|---|
 | 1 | Russian corvette *Merkury* sunk by naval drones at Benghazi | Libya |
-| 2 | COP31 in Antalya ends without a final agreement | Cyprus talks fail |
-| 3 | Garment wage protests spread across Gazipur | Bangladesh |
+| 2 | COP31 in Antalya ends without a final agreement | Turkey |
+| 3 | Garment wage protests across Gazipur | Bangladesh |
 | 4 | Severe thunderstorm kills 5 and injures 250+ | Brazil |
 | 5 | Education minister resigns over AI-assisted exam cheating | South Korea |
 | 6 | Marc Marquez takes an eighth premier-class title | Portugal |
+
+The poster prints, per tile, a beat and country tag plus two label lines:
+
+| Tile | Beat · country | Labels |
+|---|---|---|
+| 1 | WAR · LIBYA | "Russian corvette" / "sunk at Benghazi" |
+| 2 | CLIMATE · TURKEY | "COP31 ends" / "without a deal" |
+| 3 | LABOUR · BANGLADESH | "Garment workers" / "wage protests" |
+| 4 | DISASTER · BRAZIL | "Storm kills 5," / "250+ injured" |
+| 5 | POLITICS · S. KOREA | "Minister resigns" / "over AI cheating" |
+| 6 | SPORT · PORTUGAL | "Márquez wins" / "8th MotoGP title" |
 
 Every line is from the day's own reporting, as collected on Wikipedia's Current
 events page for 22 November 2026, which cites AFP, Reuters, AP, Al Jazeera and
