@@ -1,3 +1,4 @@
 out/
-bundle.tar.gz
+bundle*.tar.gz
 BRIEF_RULES.txt
+*.tar.gz
